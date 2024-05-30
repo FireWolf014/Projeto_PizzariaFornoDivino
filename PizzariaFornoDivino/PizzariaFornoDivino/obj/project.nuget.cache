@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p4RVmP9geXvCwQSkyOx2+6mJzEUk41Ae4tXwLGk0iCrSs/aixGf2HylQ1n6oibQoyT18VdxeQChhps/ppv/HeA==",
+  "dgSpecHash": "HdFwDNfqo1BaRLQ3mr8VRZrAHSxDKqrKgrGQVZX1zF0jWL+vg3zmi3KIu6ddleurDf5tXK8HI7EpTazrRU6exw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\PizzariaFornoDivino.csproj",
+  "projectFilePath": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\PizzariaFornoDivino.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alex.felix\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\alex.felix\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

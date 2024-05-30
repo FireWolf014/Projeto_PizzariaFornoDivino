@@ -1,54 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\",
+  "WorkspaceRootPath": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|c:\\dev\\projeto_pizzaria\\pizzariafornodivino\\pizzariafornodivino\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|c:\\dev\\projeto_pizzaria\\projeto_pizzaria\\pizzariafornodivino\\pizzariafornodivino\\model\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\model\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|c:\\dev\\projeto_pizzaria\\pizzariafornodivino\\pizzariafornodivino\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|c:\\dev\\projeto_pizzaria\\pizzariafornodivino\\pizzariafornodivino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|c:\\dev\\projeto_pizzaria\\pizzariafornodivino\\pizzariafornodivino\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\views\\cadastro\\alteracliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\views\\cadastro\\alteracliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|c:\\dev\\projeto_pizzaria\\projeto_pizzaria\\pizzariafornodivino\\pizzariafornodivino\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|c:\\dev\\projeto_pizzaria\\pizzariafornodivino\\pizzariafornodivino\\views\\cadastro\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\views\\cadastro\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\views\\cadastro\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\views\\cadastro\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|c:\\dev\\projeto_pizzaria\\projeto_pizzaria\\pizzariafornodivino\\pizzariafornodivino\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\views\\cadastro\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\views\\cadastro\\cadastrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\views\\cadastro\\alteracliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\views\\cadastro\\alteracliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\views\\cadastro\\alteracliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|c:\\dev\\projeto_pizzaria\\pizzariafornodivino\\pizzariafornodivino\\views\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\views\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\views\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\views\\pedidos\\incluirpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\views\\pedidos\\incluirpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\views\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\views\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\views\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\pizzariafornodivino\\controller\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0530288-BDBF-4AD3-A220-DBD6F76C80F3}|PizzariaFornoDivino\\PizzariaFornoDivino.csproj|solutionrelative:pizzariafornodivino\\controller\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,47 +54,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Controller\\ClientesController.cs",
-              "RelativeDocumentMoniker": "PizzariaFornoDivino\\Controller\\ClientesController.cs",
-              "ToolTip": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Controller\\ClientesController.cs",
-              "RelativeToolTip": "PizzariaFornoDivino\\Controller\\ClientesController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowCkAAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Model\\Pedidos.cs",
+              "RelativeDocumentMoniker": "PizzariaFornoDivino\\Model\\Pedidos.cs",
+              "ToolTip": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Model\\Pedidos.cs",
+              "RelativeToolTip": "PizzariaFornoDivino\\Model\\Pedidos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T01:58:38.808Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-05-30T02:58:10.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IncluirPedido.cs [Projeto]",
-              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Pedidos\\IncluirPedido.cs",
-              "RelativeDocumentMoniker": "PizzariaFornoDivino\\Views\\Pedidos\\IncluirPedido.cs",
-              "ToolTip": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Pedidos\\IncluirPedido.cs [Projeto]",
-              "RelativeToolTip": "PizzariaFornoDivino\\Views\\Pedidos\\IncluirPedido.cs [Projeto]",
+              "DocumentIndex": 3,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "PizzariaFornoDivino\\Login.Designer.cs",
+              "ToolTip": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Login.Designer.cs",
+              "RelativeToolTip": "PizzariaFornoDivino\\Login.Designer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T02:41:54.265Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AlteraCliente.cs [Projeto]",
-              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\AlteraCliente.cs",
-              "RelativeDocumentMoniker": "PizzariaFornoDivino\\Views\\Cadastro\\AlteraCliente.cs",
-              "ToolTip": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\AlteraCliente.cs [Projeto]",
-              "RelativeToolTip": "PizzariaFornoDivino\\Views\\Cadastro\\AlteraCliente.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T17:08:11.573Z",
-              "IsPinned": true,
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-05-30T02:57:44.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -110,13 +92,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Program.cs",
+              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Program.cs",
               "RelativeDocumentMoniker": "PizzariaFornoDivino\\Program.cs",
-              "ToolTip": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Program.cs",
+              "ToolTip": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Program.cs",
               "RelativeToolTip": "PizzariaFornoDivino\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T21:54:23.876Z",
               "EditorCaption": ""
@@ -125,11 +107,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Login.cs",
+              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Login.cs",
               "RelativeDocumentMoniker": "PizzariaFornoDivino\\Login.cs",
-              "ToolTip": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Login.cs",
+              "ToolTip": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Login.cs",
               "RelativeToolTip": "PizzariaFornoDivino\\Login.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBkAAAANAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T21:53:43.349Z",
               "EditorCaption": ""
@@ -138,35 +120,34 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CadastroCliente.cs",
-              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\CadastroCliente.cs",
+              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\CadastroCliente.cs",
               "RelativeDocumentMoniker": "PizzariaFornoDivino\\Views\\Cadastro\\CadastroCliente.cs",
-              "ToolTip": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\CadastroCliente.cs",
+              "ToolTip": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\CadastroCliente.cs",
               "RelativeToolTip": "PizzariaFornoDivino\\Views\\Cadastro\\CadastroCliente.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAYwCQAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T21:53:15.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Dashboard.cs",
+              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Dashboard.cs",
               "RelativeDocumentMoniker": "PizzariaFornoDivino\\Views\\Dashboard.cs",
-              "ToolTip": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Dashboard.cs",
+              "ToolTip": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Dashboard.cs",
               "RelativeToolTip": "PizzariaFornoDivino\\Views\\Dashboard.cs",
               "ViewState": "AQIAAGkAAAAAAAAAAAAmwFYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T21:50:50.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T21:50:50.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Model\\Cliente.cs",
+              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Model\\Cliente.cs",
               "RelativeDocumentMoniker": "PizzariaFornoDivino\\Model\\Cliente.cs",
-              "ToolTip": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Model\\Cliente.cs",
+              "ToolTip": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Model\\Cliente.cs",
               "RelativeToolTip": "PizzariaFornoDivino\\Model\\Cliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,21 +158,20 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Dashboard.cs [Projeto]",
-              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Dashboard.cs",
+              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Dashboard.cs",
               "RelativeDocumentMoniker": "PizzariaFornoDivino\\Views\\Dashboard.cs",
               "ToolTip": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Dashboard.cs [Projeto]",
-              "RelativeToolTip": "PizzariaFornoDivino\\Views\\Dashboard.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Dashboard.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T21:46:47.15Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-05-28T21:46:47.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Login.cs [Projeto]",
-              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Login.cs",
+              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Login.cs",
               "RelativeDocumentMoniker": "PizzariaFornoDivino\\Login.cs",
-              "ToolTip": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Login.cs [Projeto]",
+              "ToolTip": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Login.cs [Projeto]",
               "RelativeToolTip": "PizzariaFornoDivino\\Login.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T21:46:23.659Z",
@@ -199,24 +179,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AlteraCliente.cs",
-              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\AlteraCliente.cs",
+              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\AlteraCliente.cs",
               "RelativeDocumentMoniker": "PizzariaFornoDivino\\Views\\Cadastro\\AlteraCliente.cs",
-              "ToolTip": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\AlteraCliente.cs",
+              "ToolTip": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\AlteraCliente.cs",
               "RelativeToolTip": "PizzariaFornoDivino\\Views\\Cadastro\\AlteraCliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T17:14:14.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T17:14:14.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CadastroCliente.cs [Projeto]",
-              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\CadastroCliente.cs",
+              "DocumentMoniker": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\CadastroCliente.cs",
               "RelativeDocumentMoniker": "PizzariaFornoDivino\\Views\\Cadastro\\CadastroCliente.cs",
-              "ToolTip": "C:\\dev\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\CadastroCliente.cs [Projeto]",
+              "ToolTip": "C:\\dev\\projeto_pizzaria\\projeto_pizzaria\\PizzariaFornoDivino\\PizzariaFornoDivino\\Views\\Cadastro\\CadastroCliente.cs [Projeto]",
               "RelativeToolTip": "PizzariaFornoDivino\\Views\\Cadastro\\CadastroCliente.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T17:14:11.489Z",
