@@ -42,6 +42,9 @@ php artisan key:generate
 Executar as seed
 ---
 
+php artisan migrate
+---
+
 php artisan db:seed
 ---
 

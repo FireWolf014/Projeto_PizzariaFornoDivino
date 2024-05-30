@@ -13,7 +13,7 @@ class PedidoController extends Controller
 {
     public function index(): JsonResponse
     {
-        $pedidos = Pedido::orderBy('id', 'DESC')->paginate(15);
+        $pedidos = Pedido::orderBy('id', 'DESC')->get();
 
         return response()->json([
             'status' => true,

@@ -14,7 +14,7 @@ class UserController extends Controller
     
     public function index() : JsonResponse
     {
-        $users = User::orderBy('id', 'DESC')->paginate(15);
+        $users = User::orderBy('id', 'DESC')->get();
     
         return response()->json([
             'status' => true,
